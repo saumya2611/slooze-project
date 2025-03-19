@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://slooze-assignment-tau.vercel.app/
+**URL**: https://slooze-project.vercel.app/
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -10,10 +10,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone https://github.com/saumya2611/slooze-assignment.git
+git clone https://github.com/saumya2611/slooze-project.git
 
 # Step 2: Navigate to the project directory.
-cd slooze-assignment
+cd slooze-project
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -35,4 +35,4 @@ This project is built with .
 
 ## How can I deploy this project?
 
-Simply open [Vercel](https://vercel.com/saumya2611s-projects/slooze-assignment/DFXpoDDN1SLSybCoBWTZakwdPVWa) and click on Three dots -> Redeploy.
+Simply open [Vercel](https://vercel.com/saumya2611s-projects/slooze-project/67rLjMLZfwYctAMGJww9XUdwyAUo) and click on Three dots -> Redeploy.
